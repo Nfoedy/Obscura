@@ -54,11 +54,11 @@ Le principali meccaniche di gioco includono:
   
 🔄 In Sviluppo
 
- Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura.
- IA del mostro avanzata → rilevamento solo con luce accesa.
- Sistema batterie → gestione della durata e ricarica della torcia.
- Sistema paura → meccanica psicologica che influenza la percezione del giocatore.
- Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia.
+ - Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura.
+ - IA del mostro avanzata → rilevamento solo con luce accesa.
+ - Sistema batterie → gestione della durata e ricarica della torcia.
+ - Sistema paura → meccanica psicologica che influenza la percezione del giocatore.
+ - Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia.
  
 
 
@@ -66,3 +66,16 @@ Le principali meccaniche di gioco includono:
 
 
 🔮 Visione futura
+
+
+
+🖼️ Media
+
+
+Video Demo
+- 
+
+Download
+- link: 
+
+
