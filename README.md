@@ -17,22 +17,22 @@ In Obscura il giocatore esplora un ospedale psichiatrico abbandonato in prima pe
 Le principali meccaniche di gioco includono:
 
 - Esplorazione immersiva 🕯️
-Ambienti labirintici e in continua trasformazione, con corridoi che cambiano, porte che si aprono solo in determinate condizioni e stanze che rivelano dettagli inquietanti.
+  Ambienti labirintici e in continua trasformazione, con corridoi che cambiano, porte che si aprono solo in determinate condizioni e stanze che rivelano dettagli inquietanti.
 
 - Enigmi psicologici 🧩
-Puzzle ambientali, codici nascosti nei documenti clinici e indovinelli che richiedono osservazione e logica per essere risolti.
+  Puzzle ambientali, codici nascosti nei documenti clinici e indovinelli che richiedono osservazione e logica per essere risolti.
 
 - Gestione delle risorse 🔦
-Il giocatore deve utilizzare con cautela torce e batterie, trovando oggetti che svelano indizi ma che spesso richiedono scelte su come e quando impiegarli.
+  Il giocatore deve utilizzare con cautela torce e batterie, trovando oggetti che svelano indizi ma che spesso richiedono scelte su come e quando impiegarli.
 
 - Minacce dinamiche 👁️‍🗨️
-Presenze oscure che si muovono in modo imprevedibile e reagiscono al rumore e alle azioni del giocatore, creando tensione costante e costringendo a bilanciare stealth e fuga.
+  Presenze oscure che si muovono in modo imprevedibile e reagiscono al rumore e alle azioni del giocatore, creando tensione costante e costringendo a bilanciare stealth e fuga.
 
 - Narrazione ambientale 📜
-Documenti, graffiti e oggetti raccontano storie frammentarie, rivelando progressivamente dettagli sul passato del luogo e sul ruolo del protagonista.
+  Documenti, graffiti e oggetti raccontano storie frammentarie, rivelando progressivamente dettagli sul passato del luogo e sul ruolo del protagonista.
 
 - Flashback inquietanti 🩸
-In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. Queste sequenze alterano l’ambiente e la percezione del giocatore, offrendo nuove informazioni ma aumentando il senso di disagio e confusione.
+  In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. Queste sequenze alterano l’ambiente e la percezione del giocatore, offrendo nuove informazioni ma aumentando il senso di disagio e confusione.
 
 
 🛠️ Tecnologie Utilizzate
@@ -51,15 +51,15 @@ In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. 
   Gestione luci → accensione, spegnimento, rottura e sfarfallio dinamico.
   Sistema di salute → danni e morte del personaggio.
   Stamina + Sprint → corsa limitata con barra stamina.
-
+  
 🔄 In Sviluppo
 
- Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura
- IA del mostro avanzata → rilevamento solo con luce accesa
- Sistema batterie → gestione della durata e ricarica della torcia
- Sistema paura → meccanica psicologica che influenza la percezione del giocatore
- Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia
-
+ Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura.
+ IA del mostro avanzata → rilevamento solo con luce accesa.
+ Sistema batterie → gestione della durata e ricarica della torcia.
+ Sistema paura → meccanica psicologica che influenza la percezione del giocatore.
+ Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia.
+ 
 
 
 
