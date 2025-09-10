@@ -44,13 +44,13 @@ Le principali meccaniche di gioco includono:
 
 ✅ Funzionalità Completate
 
-  Sistema delle porte → apertura e chiusura interattiva.
-  Torcia → accensione/spegnimento, gestione della luce.
-  Sistema dei passi → suoni diversi su erba, legno e acciaio.
-  Nemico base → pattugliamento, inseguimento e attacco.
-  Gestione luci → accensione, spegnimento, rottura e sfarfallio dinamico.
-  Sistema di salute → danni e morte del personaggio.
-  Stamina + Sprint → corsa limitata con barra stamina.
+- Sistema delle porte → apertura e chiusura interattiva.
+- Torcia → accensione/spegnimento, gestione della luce.
+- Sistema dei passi → suoni diversi su erba, legno e acciaio.
+- Nemico base → pattugliamento, inseguimento e attacco.
+- Gestione luci → accensione, spegnimento, rottura e sfarfallio dinamico.
+- Sistema di salute → danni e morte del personaggio.
+- Stamina + Sprint → corsa limitata con barra stamina.
   
 🔄 In Sviluppo
 
