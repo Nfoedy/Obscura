@@ -3,6 +3,7 @@ First-Person Psychological Survival Horror: exploration, hidden mysteries, and d
 
 
 📖 Concept
+
 Obscura è un gioco horror psicologico in prima persona, ambientato all’interno di un ospedale psichiatrico.
 Il protagonista si risveglia in una stanza buia, senza alcun ricordo di come sia arrivato lì. Le pareti fredde e i corridoi silenziosi nascondono segreti inquietanti, frammenti di storie di pazienti dimenticati e documenti clinici disturbanti.
 Attraverso l’esplorazione, il giocatore scopre indizi, risolve enigmi e ricompone lentamente un passato oscuro. Ogni passo avanti rivela un dettaglio in più, ma anche una nuova minaccia che si nasconde tra le ombre.
@@ -10,6 +11,7 @@ L’atmosfera è costruita per trasmettere costante tensione: non solo per la pr
 
 
 🧩 Gameplay
+
 In Obscura il giocatore esplora un ospedale psichiatrico abbandonato in prima persona, cercando di sopravvivere mentre ricostruisce un passato oscuro e frammentato.
 
 Le principali meccaniche di gioco includono:
@@ -39,6 +41,7 @@ In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. 
 
 
 📌 Stato del Progetto
+
 ✅ Funzionalità Completate
 
   Sistema delle porte → apertura e chiusura interattiva.
@@ -49,11 +52,16 @@ In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. 
   Sistema di salute → danni e morte del personaggio.
   Stamina + Sprint → corsa limitata con barra stamina.
 
+🔄 In Sviluppo
 
-Completato:
+ Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura
+ IA del mostro avanzata → rilevamento solo con luce accesa
+ Sistema batterie → gestione della durata e ricarica della torcia
+ Sistema paura → meccanica psicologica che influenza la percezione del giocatore
+ Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia
 
 
-In sviluppo:
+
 
 
 
