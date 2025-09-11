@@ -1,6 +1,7 @@
 # Obscura
 Survival horror psicologico in prima persona: esplorazione, misteri nascosti e presenze oscure da affrontare.
 
+---
 
 📖 Concept
 
@@ -9,6 +10,7 @@ Il protagonista si risveglia in una stanza buia, senza alcun ricordo di come sia
 Attraverso l’esplorazione, il giocatore scopre indizi, risolve enigmi e ricompone lentamente un passato oscuro. Ogni passo avanti rivela un dettaglio in più, ma anche una nuova minaccia che si nasconde tra le ombre.
 L’atmosfera è costruita per trasmettere costante tensione: non solo per la presenza di entità spaventose, ma soprattutto per la sensazione crescente che il vero orrore non sia all’esterno, bensì dentro la storia del protagonista stesso.
 
+---
 
 🧩 Gameplay
 
@@ -34,12 +36,13 @@ Le principali meccaniche di gioco includono:
 - Flashback inquietanti 🩸
   In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. Queste sequenze alterano l’ambiente e la percezione del giocatore, offrendo nuove informazioni ma aumentando il senso di disagio e confusione.
 
+---
 
 🛠️ Tecnologie Utilizzate
 
 Unreal Engine 5.0
 
-
+---
 
 📌 Stato del Progetto
 
@@ -60,12 +63,9 @@ Unreal Engine 5.0
  - Sistema batterie → gestione della durata e ricarica della torcia.
  - Sistema paura → meccanica psicologica che influenza la percezione del giocatore.
  - Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia.
+
+---
  
-
-
-
-
-
 🔮 Visione futura
 
 In futuro, Obscura potrà espandersi con nuove funzionalità e contenuti per arricchire l’esperienza di gioco:
@@ -78,11 +78,17 @@ In futuro, Obscura potrà espandersi con nuove funzionalità e contenuti per arr
 - Sistema audio avanzato → utilizzo dinamico dei suoni per creare tensione e orientare il giocatore.
 - Ottimizzazione grafica e performance → miglioramenti visivi e tecnici per rendere l’esperienza più fluida e immersiva.
 
+---
+
 🖼️ Media
 
 
+---
+
 Video Demo
 - 
+
+---
 
 Download
 - link: 
