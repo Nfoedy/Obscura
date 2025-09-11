@@ -1,5 +1,5 @@
 # Obscura
-First-Person Psychological Survival Horror: exploration, hidden mysteries, and dark entities to face.
+Survival horror psicologico in prima persona: esplorazione, misteri nascosti e presenze oscure da affrontare.
 
 
 📖 Concept
