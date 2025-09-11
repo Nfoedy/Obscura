@@ -68,7 +68,15 @@ Unreal Engine 5.0
 
 🔮 Visione futura
 
+In futuro, Obscura potrà espandersi con nuove funzionalità e contenuti per arricchire l’esperienza di gioco:
 
+- Flashback interattivi → sequenze narrative che immergono il giocatore nei ricordi inquietanti del protagonista.
+- Puzzle complessi → enigmi ambientali più articolati, collegati a documenti e indizi nascosti.
+- Finali multipli → scelte del giocatore che influenzano la trama e il destino del protagonista.
+- Nuove aree dell’ospedale → reparti inesplorati, sotterranei e ambienti distorti che ampliano la mappa.
+- Nemici aggiuntivi → creature con comportamenti unici che rappresentano diversi aspetti della follia e del senso di colpa.
+- Sistema audio avanzato → utilizzo dinamico dei suoni per creare tensione e orientare il giocatore.
+- Ottimizzazione grafica e performance → miglioramenti visivi e tecnici per rendere l’esperienza più fluida e immersiva.
 
 🖼️ Media
 
