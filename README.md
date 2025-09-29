@@ -58,12 +58,12 @@ Unreal Engine 5.0
 - Gestione luci → accensione, spegnimento, rottura e sfarfallio dinamico.
 - Sistema di salute → danni e morte del personaggio.
 - Stamina + Sprint → corsa limitata con barra stamina.
+- Sistema batterie → gestione della durata e ricarica della torcia.
   
 🔄 In Sviluppo
 
  - Orologio con GUI → interfaccia per mostrare vita, stamina e livello di paura.
  - IA del mostro avanzata → rilevamento solo con luce accesa.
- - Sistema batterie → gestione della durata e ricarica della torcia.
  - Sistema paura → meccanica psicologica che influenza la percezione del giocatore.
  - Sistema documenti → raccolta e lettura di file/testimonianze per svelare la storia.
 
