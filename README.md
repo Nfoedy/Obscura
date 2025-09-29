@@ -36,6 +36,9 @@ Le principali meccaniche di gioco includono:
 - Flashback inquietanti 🩸
   In momenti chiave il protagonista rivive frammenti disturbanti del suo passato. Queste sequenze alterano l’ambiente e la percezione del giocatore, offrendo nuove informazioni ma aumentando il senso di disagio e confusione.
 
+- Interazione con il microfono 🎤
+  Il gioco potrà utilizzare il microfono del giocatore per captare suoni reali. Ogni rumore emesso (parlare, respirare forte, piccoli colpi) potrà attirare l’attenzione delle creature, aumentando la tensione e obbligando il giocatore a restare davvero in silenzio nella vita reale.
+
 ---
 
 🛠️ Tecnologie Utilizzate
